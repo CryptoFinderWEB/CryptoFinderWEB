@@ -1,0 +1,62 @@
+{
+    "Sponsor":{
+        "Soft": [
+            {
+                "Name":"Racoon Stealer",
+                "Type":"Stealer",
+                "Link":"dsfsdfsd"
+            },
+            {
+                "Name":"Racoon Stealer",
+                "Type":"Stealer",
+                "Link":"dsfsdfsd"
+            }
+        ],
+        "Logs": [
+
+        ],
+        "Other": [
+
+        ]
+    },
+    "Paid":{
+        "Soft": [
+            {
+                "Name":"Racoon Stealer",
+                "Type":"Stealer",
+                "Link":"dsfsdfsd"
+            },
+            {
+                "Name":"Racoon Stealer",
+                "Type":"Stealer",
+                "Link":"dsfsdfsd"
+            }
+        ],
+        "Logs": [
+
+        ],
+        "Other": [
+
+        ]
+    },
+    "Free":{
+        "Soft": [
+            {
+                "Name":"Racoon Stealer",
+                "Type":"Stealer",
+                "Link":"dsfsdfsd"
+            },
+            {
+                "Name":"Racoon Stealer",
+                "Type":"Stealer",
+                "Link":"dsfsdfsd"
+            }
+        ],
+        "Logs": [
+            
+        ],
+        "Other": [
+
+        ]
+    }
+  }
