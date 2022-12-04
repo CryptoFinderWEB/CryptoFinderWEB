@@ -4,21 +4,24 @@
             {
                 "Name":"Размещение вашего проекта в топе за благотворительность",
                 "Type":"NONE",
-                "Link":"#"
+                "Link":"#",
+                "Hide": false
             }
         ],
         "Logs": [
             {
                 "Name":"Размещение вашего проекта в топе за благотворительность",
                 "Type":"NONE",
-                "Link":"#"
+                "Link":"#",
+                "Hide": false
             }
         ],
         "Other": [
             {
                 "Name":"Размещение вашего проекта в топе за благотворительность",
                 "Type":"NONE",
-                "Link":"#"
+                "Link":"#",
+                "Hide": false
             }
         ]
     },
@@ -27,49 +30,58 @@
             {
                 "Name":"Rhadamanthys Stealer",
                 "Type":"Stealer",
-                "Link":"https://xss.is/threads/73516/"
+                "Link":"https://xss.is/threads/73516/",
+                "Hide": false
             },
             {
                 "Name":"Spectre 5.0 RAT | Botnet | HiddenBrowser",
                 "Type":"RAT",
-                "Link":"https://xss.is/threads/51631/"
+                "Link":"https://xss.is/threads/51631/",
+                "Hide": false
             },
             {
                 "Name":"VenomRAT + HVNC + Stealer + Grabber. Hidden/Desktop/Browsers/CloneProfile/AutoTask/WebGL",
                 "Type":"RAT",
-                "Link":"https://xss.is/threads/75908/"
+                "Link":"https://xss.is/threads/75908/",
+                "Hide": false
             },
             {
                 "Name":"VenomRAT + HVNC + Stealer + Grabber. Hidden/Desktop/Browsers/CloneProfile/AutoTask/WebGL",
                 "Type":"Stealer",
-                "Link":"https://xss.is/threads/75908/"
+                "Link":"https://xss.is/threads/75908/",
+                "Hide": false
             },
             {
                 "Name":"[АРЕНДА] Matanbuchus приватный резидентный лоадер",
                 "Type":"Loader",
-                "Link":"https://xss.is/threads/48402/"
+                "Link":"https://xss.is/threads/48402/",
+                "Hide": false
             }
         ],
         "Logs": [   
             {
                 "Name":"InstallsLab | Unique installs available | High price & High quality",
                 "Type":"Installs",
-                "Link":"https://xss.is/threads/75714/"
+                "Link":"https://xss.is/threads/75714/",
+                "Hide": false
             },
             {
                 "Name":"Качественные инсталлы/Quality installs",
                 "Type":"Installs",
-                "Link":"https://xss.is/threads/35544/"
+                "Link":"https://xss.is/threads/35544/",
+                "Hide": false
             },
             {
                 "Name":"Продам качественные загрузки [MIX, EU, US]",
                 "Type":"Installs",
-                "Link":"https://xss.is/threads/33611/"
+                "Link":"https://xss.is/threads/33611/",
+                "Hide": false
             },
             {
                 "Name":"[MrSortRow] - Бот-Облако запросов",
                 "Type":"Cloud",
-                "Link":"https://xss.is/threads/59155/"
+                "Link":"https://xss.is/threads/59155/",
+                "Hide": false
             }
         ],
         "Other": [
