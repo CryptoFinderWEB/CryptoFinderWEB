@@ -33,6 +33,7 @@
             }
         ],
         "Logs": [
+            
 
         ],
         "Other": [
@@ -41,19 +42,84 @@
     },
     "Free":{
         "Soft": [
-            {
-                "Name":"Racoon Stealer",
-                "Type":"Stealer",
-                "Link":"dsfsdfsd"
-            },
-            {
-                "Name":"Racoon Stealer",
-                "Type":"Stealer",
-                "Link":"dsfsdfsd"
-            }
+            
         ],
         "Logs": [
-            
+            {
+                "Name":"CLOUD FREE LOGS",
+                "Type":"Cloud",
+                "Link":"https://t.me/cloudlogss"
+            },
+            {
+                "Name":"🌩 Rain Cloud | Free Logs",
+                "Type":"Cloud",
+                "Link":"https://t.me/raincloudlogs"
+            },
+            {
+                "Name":"BEST FREE CLOUD LOGS",
+                "Type":"Cloud",
+                "Link":"https://t.me/freelogs1only"
+            },
+            {
+                "Name":"DAISY CLOUD",
+                "Type":"Cloud",
+                "Link":"https://t.me/Daisy_Cloud"
+            },
+            {
+                "Name":"LogsPekker | Free",
+                "Type":"Cloud",
+                "Link":"https://t.me/LogsPekker"
+            },
+            {
+                "Name":"ParadiseLogs | Cloud",
+                "Type":"Cloud",
+                "Link":"https://t.me/paradise_logs"
+            },
+            {
+                "Name":"JokerLogs | Reborn",
+                "Type":"Cloud",
+                "Link":"https://t.me/joker_reborn"
+            },
+            {
+                "Name":"JokerLogs | Reborn",
+                "Type":"Cloud",
+                "Link":"https://t.me/joker_reborn"
+            },
+            {
+                "Name":"JokerLogs | Reborn",
+                "Type":"Cloud",
+                "Link":"https://t.me/joker_reborn"
+            },
+            {
+                "Name":"MolverCloud",
+                "Type":"Cloud",
+                "Link":"https://t.me/MolverCloud"
+            },
+            {
+                "Name":"Borwita 🄵🅁🄴🄴 Logs [REDLINE]",
+                "Type":"Cloud",
+                "Link":"https://t.me/BorwitaFreeLogs"
+            },
+            {
+                "Name":"ICE LOGS CLOUD [FREE]",
+                "Type":"Cloud",
+                "Link":"https://t.me/icelogscloud"
+            },
+            {
+                "Name":"Marvel cloud ( Free logs) 👍",
+                "Type":"Cloud",
+                "Link":"https://t.me/marvelcloudRB"
+            },
+            {
+                "Name":"Kingz Free logs 🇸🇰",
+                "Type":"Cloud",
+                "Link":"https://t.me/CrackingGroup22"
+            },
+            {
+                "Name":"Raccoons cloud FREE LOGS",
+                "Type":"Cloud",
+                "Link":"https://t.me/racoons_cloud"
+            }
         ],
         "Other": [
 
