@@ -2,123 +2,244 @@
     "Sponsor":{
         "Soft": [
             {
-                "Name":"Racoon Stealer",
-                "Type":"Stealer",
-                "Link":"dsfsdfsd"
-            },
-            {
-                "Name":"Racoon Stealer",
-                "Type":"Stealer",
-                "Link":"dsfsdfsd"
+                "Name":"Размещение вашего проекта в топе за благотворительность",
+                "Type":"NONE",
+                "Link":"#"
             }
         ],
         "Logs": [
-
+            {
+                "Name":"Размещение вашего проекта в топе за благотворительность",
+                "Type":"NONE",
+                "Link":"#"
+            }
         ],
         "Other": [
-
+            {
+                "Name":"Размещение вашего проекта в топе за благотворительность",
+                "Type":"NONE",
+                "Link":"#"
+            }
         ]
     },
     "Paid":{
         "Soft": [
             {
-                "Name":"Racoon Stealer",
+                "Name":"Rhadamanthys Stealer",
                 "Type":"Stealer",
-                "Link":"dsfsdfsd"
+                "Link":"https://xss.is/threads/73516/"
             },
             {
-                "Name":"Racoon Stealer",
+                "Name":"Spectre 5.0 RAT | Botnet | HiddenBrowser",
+                "Type":"RAT",
+                "Link":"https://xss.is/threads/51631/"
+            },
+            {
+                "Name":"VenomRAT + HVNC + Stealer + Grabber. Hidden/Desktop/Browsers/CloneProfile/AutoTask/WebGL",
+                "Type":"RAT",
+                "Link":"https://xss.is/threads/75908/"
+            },
+            {
+                "Name":"VenomRAT + HVNC + Stealer + Grabber. Hidden/Desktop/Browsers/CloneProfile/AutoTask/WebGL",
                 "Type":"Stealer",
-                "Link":"dsfsdfsd"
+                "Link":"https://xss.is/threads/75908/"
+            },
+            {
+                "Name":"[АРЕНДА] Matanbuchus приватный резидентный лоадер",
+                "Type":"Loader",
+                "Link":"https://xss.is/threads/48402/"
             }
         ],
-        "Logs": [
-            
-
+        "Logs": [   
+            {
+                "Name":"InstallsLab | Unique installs available | High price & High quality",
+                "Type":"Installs",
+                "Link":"https://xss.is/threads/75714/"
+            },
+            {
+                "Name":"Качественные инсталлы/Quality installs",
+                "Type":"Installs",
+                "Link":"https://xss.is/threads/35544/"
+            },
+            {
+                "Name":"Продам качественные загрузки [MIX, EU, US]",
+                "Type":"Installs",
+                "Link":"https://xss.is/threads/33611/"
+            },
+            {
+                "Name":"[MrSortRow] - Бот-Облако запросов",
+                "Type":"Cloud",
+                "Link":"https://xss.is/threads/59155/"
+            }
         ],
         "Other": [
-
+            {
+                "Name":"Услуги по отработке SEED фраз, приватных ключей и обработке логов.",
+                "Type":"Service",
+                "Link":"https://xss.is/threads/61415/"
+            },
+            {
+                "Name":".Lnk exploit Builder",
+                "Type":"Service",
+                "Link":"https://xss.is/threads/67100/"
+            },
+            {
+                "Name":".URL Exploit - Attach to Gmail - Spoof ANY extension - Custom icons - FUD - Bypass Smartscreen - UAC Bypass - No ZIPs required & More",
+                "Type":"Service",
+                "Link":"https://xss.is/threads/76877/"
+            },
+            {
+                "Name":"Crypt service CobaltStrike & Powershell Obfuscation",
+                "Type":"Service",
+                "Link":"https://xss.is/threads/72985/"
+            },
+            {
+                "Name":"PHISHING AS A SERVICE - LIVE PANELS, PHISHING, LANDING PAGES. CLOAKING + ANTIBAN",
+                "Type":"Service",
+                "Link":"https://xss.is/threads/75915/"
+            },
+            {
+                "Name":"Ekipa - комплексное DOCX/XLL/PUB решение для целевых атак.",
+                "Type":"Service",
+                "Link":"https://xss.is/threads/62763/"
+            }
         ]
     },
     "Free":{
         "Soft": [
-            
+            {
+                "Name":"Anubis 2.5 (Android Bot) [HIDE 15 reactions]",
+                "Type":"Stealer",
+                "Link":"https://xss.is/threads/28611/",
+                "Hide": true
+            },
+            {
+                "Name":"Seed Parser [Парсер сид фраз от криптокошельков.] [HIDE 30 days, 20 message]",
+                "Type":"Crypto Utils",
+                "Link":"https://xss.is/threads/28611/",
+                "Hide": true
+            },
+            {
+                "Name":"Logs Cleaner",
+                "Type":"Logs Utils",
+                "Link":"https://xss.is/threads/70333/",
+                "Hide": false
+            },
+            {
+                "Name":"Acunetix Premium v15.1 (10 Nov 2022)",
+                "Type":"Web Utils",
+                "Link":"https://xss.is/threads/75736/",
+                "Hide": false
+            },
+            {
+                "Name":"Асинхронный веб парсер бесплатных прокси (http, socks5)",
+                "Type":"Web Utils",
+                "Link":"https://xss.is/threads/76144/",
+                "Hide": false
+            },
+            {
+                "Name":"Исходники Taurus/Predator The Thief",
+                "Type":"Stealer",
+                "Link":"https://xss.is/threads/73191/",
+                "Hide": false
+            },
+            {
+                "Name":"Voila! Cobalt Strike 4.5 modified Loader ( Original cobaltstrike.jar )",
+                "Type":"Web Utils",
+                "Link":"https://xss.is/threads/68547/",
+                "Hide": false
+            }
         ],
         "Logs": [
             {
                 "Name":"CLOUD FREE LOGS",
                 "Type":"Cloud",
-                "Link":"https://t.me/cloudlogss"
+                "Link":"https://t.me/cloudlogss",
+                "Hide": false
             },
             {
                 "Name":"🌩 Rain Cloud | Free Logs",
                 "Type":"Cloud",
-                "Link":"https://t.me/raincloudlogs"
+                "Link":"https://t.me/raincloudlogs",
+                "Hide": false
             },
             {
                 "Name":"BEST FREE CLOUD LOGS",
                 "Type":"Cloud",
-                "Link":"https://t.me/freelogs1only"
+                "Link":"https://t.me/freelogs1only",
+                "Hide": false
             },
             {
                 "Name":"DAISY CLOUD",
                 "Type":"Cloud",
-                "Link":"https://t.me/Daisy_Cloud"
+                "Link":"https://t.me/Daisy_Cloud",
+                "Hide": false
             },
             {
                 "Name":"LogsPekker | Free",
                 "Type":"Cloud",
-                "Link":"https://t.me/LogsPekker"
+                "Link":"https://t.me/LogsPekker",
+                "Hide": false
             },
             {
                 "Name":"ParadiseLogs | Cloud",
                 "Type":"Cloud",
-                "Link":"https://t.me/paradise_logs"
+                "Link":"https://t.me/paradise_logs",
+                "Hide": false
             },
             {
                 "Name":"JokerLogs | Reborn",
                 "Type":"Cloud",
-                "Link":"https://t.me/joker_reborn"
+                "Link":"https://t.me/joker_reborn",
+                "Hide": false
             },
             {
                 "Name":"JokerLogs | Reborn",
                 "Type":"Cloud",
-                "Link":"https://t.me/joker_reborn"
+                "Link":"https://t.me/joker_reborn",
+                "Hide": false
             },
             {
                 "Name":"JokerLogs | Reborn",
                 "Type":"Cloud",
-                "Link":"https://t.me/joker_reborn"
+                "Link":"https://t.me/joker_reborn",
+                "Hide": false
             },
             {
                 "Name":"MolverCloud",
                 "Type":"Cloud",
-                "Link":"https://t.me/MolverCloud"
+                "Link":"https://t.me/MolverCloud",
+                "Hide": false
             },
             {
                 "Name":"Borwita 🄵🅁🄴🄴 Logs [REDLINE]",
                 "Type":"Cloud",
-                "Link":"https://t.me/BorwitaFreeLogs"
+                "Link":"https://t.me/BorwitaFreeLogs",
+                "Hide": false
             },
             {
                 "Name":"ICE LOGS CLOUD [FREE]",
                 "Type":"Cloud",
-                "Link":"https://t.me/icelogscloud"
+                "Link":"https://t.me/icelogscloud",
+                "Hide": false
             },
             {
                 "Name":"Marvel cloud ( Free logs) 👍",
                 "Type":"Cloud",
-                "Link":"https://t.me/marvelcloudRB"
+                "Link":"https://t.me/marvelcloudRB",
+                "Hide": false
             },
             {
                 "Name":"Kingz Free logs 🇸🇰",
                 "Type":"Cloud",
-                "Link":"https://t.me/CrackingGroup22"
+                "Link":"https://t.me/CrackingGroup22",
+                "Hide": false
             },
             {
                 "Name":"Raccoons cloud FREE LOGS",
                 "Type":"Cloud",
-                "Link":"https://t.me/racoons_cloud"
+                "Link":"https://t.me/racoons_cloud",
+                "Hide": false
             }
         ],
         "Other": [
