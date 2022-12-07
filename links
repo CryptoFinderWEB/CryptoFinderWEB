@@ -206,18 +206,6 @@
                 "Hide": false
             },
             {
-                "Name":"JokerLogs | Reborn",
-                "Type":"Cloud",
-                "Link":"https://t.me/joker_reborn",
-                "Hide": false
-            },
-            {
-                "Name":"JokerLogs | Reborn",
-                "Type":"Cloud",
-                "Link":"https://t.me/joker_reborn",
-                "Hide": false
-            },
-            {
                 "Name":"MolverCloud",
                 "Type":"Cloud",
                 "Link":"https://t.me/MolverCloud",
@@ -252,10 +240,22 @@
                 "Type":"Cloud",
                 "Link":"https://t.me/racoons_cloud",
                 "Hide": false
+            },
+            {
+                "Name":"BerserkLogs | Shop",
+                "Type":"Cloud",
+                "Link":"https://t.me/berserklogs",
+                "Hide": false
+            },
+            {
+                "Name":"🌃NIGHT CLOUD | FREE LOGS CLOUD | БЕСПЛАТНОЕ ОБЛАКО ЛОГОВ🌃",
+                "Type":"Cloud",
+                "Link":"https://t.me/night_cloud_free",
+                "Hide": false
             }
         ],
         "Other": [
 
         ]
     }
-  }
+}
